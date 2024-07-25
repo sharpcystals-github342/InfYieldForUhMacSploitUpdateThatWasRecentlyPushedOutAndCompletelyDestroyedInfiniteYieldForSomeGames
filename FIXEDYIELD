@@ -183,7 +183,7 @@ else
 end
 
 PARENT.ResetOnSpawn = false
-PARENT.DisplayOrder = ((2^32)/2)-1
+PARENT.DisplayOrder = 16
 
 shade1 = {}
 shade2 = {}
